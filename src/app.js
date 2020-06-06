@@ -2,7 +2,7 @@ const express=require('express')
 const app=express()
 const jwt=require('jsonwebtoken')
 const fs = require('fs');
-//const data = require('./data/calculate-premium-sample-response.json')
+
 
 
 const port=process.env.PORT || 3000
@@ -35,7 +35,6 @@ app.get('/contracts/check-active-coverage/:subscriberIdentifier/:effectiveDt',(r
     var effectiveDt = req.params.effectiveDt
     var content = fs.readFileSync('data/calculate-premium-sample-response.json')
     var Subcheck = false
-        //console.log(typeof content)
        jsonData = JSON.parse(content);
        res.setHeader('Content-Type', 'application/json');
 
