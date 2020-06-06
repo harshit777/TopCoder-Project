@@ -1,0 +1,23 @@
+[
+{
+    "groupIdentifier": "00000317",
+    "subscriberIdentifier": "WS9982536",
+    "rateFromDt": "2015-07-01",
+    "rateToDt": "2019-12-31",
+    "premiumBasis": "M"
+},
+{
+    "groupIdentifier": "00000317",
+    "subscriberIdentifier": "WS9982535",
+    "rateFromDt": "2015-07-01",
+    "rateToDt": "2019-12-31",
+    "premiumBasis": "M"
+},
+{
+    "groupIdentifier": "00000317",
+    "subscriberIdentifier": "WS9982534",
+    "rateFromDt": "2015-07-01",
+    "rateToDt": "2019-12-31",
+    "premiumBasis": "M"
+}
+]
