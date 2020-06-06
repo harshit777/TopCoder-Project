@@ -1,0 +1,1672 @@
+[
+  [
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM004IF",
+      "rateFromDt": "2017-07-01",
+      "rateToDt": "2018-06-30",
+      "subscriberPrem": "515.22",
+      "dependentsPrem": "490.73",
+      "totalPrem": "1005.95",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM004IF",
+          "coverageFromDt": "2017-07-01",
+          "coverageToDt": "2018-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "490.73",
+          "totalPrem": "490.73",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM004IF",
+          "coverageFromDt": "2017-07-01",
+          "coverageToDt": "2018-06-30",
+          "subscriberPrem": "515.22",
+          "dependentsPrem": "0.00",
+          "totalPrem": "515.22",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM0060I",
+      "rateFromDt": "2018-07-01",
+      "rateToDt": "2018-10-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "537.43",
+      "totalPrem": "537.43",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM0060I",
+          "coverageFromDt": "2018-07-01",
+          "coverageToDt": "2018-10-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "537.43",
+          "totalPrem": "537.43",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM0060I",
+      "rateFromDt": "2018-11-01",
+      "rateToDt": "2019-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "1271.67",
+      "totalPrem": "1271.67",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM0060I",
+          "coverageFromDt": "2018-11-01",
+          "coverageToDt": "2019-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "1271.67",
+          "totalPrem": "1271.67",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM0060I",
+      "rateFromDt": "2018-07-01",
+      "rateToDt": "2019-06-30",
+      "subscriberPrem": "570.65",
+      "dependentsPrem": "0.00",
+      "totalPrem": "570.65",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM0060I",
+          "coverageFromDt": "2018-07-01",
+          "coverageToDt": "2019-06-30",
+          "subscriberPrem": "570.65",
+          "dependentsPrem": "0.00",
+          "totalPrem": "570.65",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00BH7",
+      "rateFromDt": "2019-07-01",
+      "rateToDt": "2019-12-31",
+      "subscriberPrem": "619.36",
+      "dependentsPrem": "1362.86",
+      "totalPrem": "1982.22",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00BH7",
+          "coverageFromDt": "2019-07-01",
+          "coverageToDt": "2019-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "1362.86",
+          "totalPrem": "1362.86",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00BH7",
+          "coverageFromDt": "2019-07-01",
+          "coverageToDt": "2019-12-31",
+          "subscriberPrem": "619.36",
+          "dependentsPrem": "0.00",
+          "totalPrem": "619.36",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRG",
+      "rateFromDt": "2016-07-01",
+      "rateToDt": "2017-06-30",
+      "subscriberPrem": "455.60",
+      "dependentsPrem": "436.00",
+      "totalPrem": "891.60",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "436.00",
+          "totalPrem": "436.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "455.60",
+          "dependentsPrem": "0.00",
+          "totalPrem": "455.60",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "414.38",
+      "totalPrem": "414.38",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "414.38",
+          "totalPrem": "414.38",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "414.38",
+      "totalPrem": "414.38",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "414.38",
+          "totalPrem": "414.38",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "427.77",
+      "dependentsPrem": "0.00",
+      "totalPrem": "427.77",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "427.77",
+          "dependentsPrem": "0.00",
+          "totalPrem": "427.77",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "427.77",
+      "dependentsPrem": "0.00",
+      "totalPrem": "427.77",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "427.77",
+          "dependentsPrem": "0.00",
+          "totalPrem": "427.77",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982536",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM004IF",
+      "rateFromDt": "2017-07-01",
+      "rateToDt": "2018-06-30",
+      "subscriberPrem": "1055.33",
+      "dependentsPrem": "1336.47",
+      "totalPrem": "2391.80",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM004IF",
+          "coverageFromDt": "2017-07-01",
+          "coverageToDt": "2018-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "1336.47",
+          "totalPrem": "1336.47",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM004IF",
+          "coverageFromDt": "2017-07-01",
+          "coverageToDt": "2018-06-30",
+          "subscriberPrem": "1055.33",
+          "dependentsPrem": "0.00",
+          "totalPrem": "1055.33",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM0060I",
+      "rateFromDt": "2018-07-01",
+      "rateToDt": "2018-08-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "1492.03",
+      "totalPrem": "1492.03",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM0060I",
+          "coverageFromDt": "2018-07-01",
+          "coverageToDt": "2018-08-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "1492.03",
+          "totalPrem": "1492.03",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM0060I",
+      "rateFromDt": "2018-09-01",
+      "rateToDt": "2019-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "1071.50",
+      "totalPrem": "1071.50",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM0060I",
+          "coverageFromDt": "2018-09-01",
+          "coverageToDt": "2019-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "1071.50",
+          "totalPrem": "1071.50",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM0060I",
+      "rateFromDt": "2018-07-01",
+      "rateToDt": "2019-06-30",
+      "subscriberPrem": "1181.68",
+      "dependentsPrem": "0.00",
+      "totalPrem": "1181.68",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM0060I",
+          "coverageFromDt": "2018-07-01",
+          "coverageToDt": "2019-06-30",
+          "subscriberPrem": "1181.68",
+          "dependentsPrem": "0.00",
+          "totalPrem": "1181.68",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00BH7",
+      "rateFromDt": "2019-07-01",
+      "rateToDt": "2019-12-31",
+      "subscriberPrem": "1273.74",
+      "dependentsPrem": "1154.04",
+      "totalPrem": "2427.78",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00BH7",
+          "coverageFromDt": "2019-07-01",
+          "coverageToDt": "2019-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "1154.04",
+          "totalPrem": "1154.04",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00BH7",
+          "coverageFromDt": "2019-07-01",
+          "coverageToDt": "2019-12-31",
+          "subscriberPrem": "1273.74",
+          "dependentsPrem": "0.00",
+          "totalPrem": "1273.74",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRG",
+      "rateFromDt": "2016-07-01",
+      "rateToDt": "2016-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2016-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRG",
+      "rateFromDt": "2017-01-01",
+      "rateToDt": "2017-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2017-01-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRG",
+      "rateFromDt": "2016-07-01",
+      "rateToDt": "2017-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRG",
+      "rateFromDt": "2016-07-01",
+      "rateToDt": "2016-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "1517.61",
+      "totalPrem": "1517.61",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2016-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "1517.61",
+          "totalPrem": "1517.61",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRG",
+      "rateFromDt": "2017-01-01",
+      "rateToDt": "2017-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "1166.29",
+      "totalPrem": "1166.29",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2017-01-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "1166.29",
+          "totalPrem": "1166.29",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRG",
+      "rateFromDt": "2016-07-01",
+      "rateToDt": "2017-06-30",
+      "subscriberPrem": "910.85",
+      "dependentsPrem": "0.00",
+      "totalPrem": "910.85",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "910.85",
+          "dependentsPrem": "0.00",
+          "totalPrem": "910.85",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRG",
+      "rateFromDt": "2016-07-01",
+      "rateToDt": "2016-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2016-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRG",
+      "rateFromDt": "2017-01-01",
+      "rateToDt": "2017-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2017-01-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRG",
+      "rateFromDt": "2016-07-01",
+      "rateToDt": "2017-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "1293.69",
+      "totalPrem": "1293.69",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "1293.69",
+          "totalPrem": "1293.69",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "1293.69",
+      "totalPrem": "1293.69",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "1293.69",
+          "totalPrem": "1293.69",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "852.86",
+      "dependentsPrem": "0.00",
+      "totalPrem": "852.86",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "852.86",
+          "dependentsPrem": "0.00",
+          "totalPrem": "852.86",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "852.86",
+      "dependentsPrem": "0.00",
+      "totalPrem": "852.86",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "852.86",
+          "dependentsPrem": "0.00",
+          "totalPrem": "852.86",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982535",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM004IF",
+      "rateFromDt": "2017-07-01",
+      "rateToDt": "2018-02-28",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "1149.43",
+      "totalPrem": "1149.43",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM004IF",
+          "coverageFromDt": "2017-07-01",
+          "coverageToDt": "2018-02-28",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "1149.43",
+          "totalPrem": "1149.43",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM004IF",
+      "rateFromDt": "2018-03-01",
+      "rateToDt": "2018-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "759.03",
+      "totalPrem": "759.03",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM004IF",
+          "coverageFromDt": "2018-03-01",
+          "coverageToDt": "2018-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "759.03",
+          "totalPrem": "759.03",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM004IF",
+      "rateFromDt": "2017-07-01",
+      "rateToDt": "2018-06-30",
+      "subscriberPrem": "907.18",
+      "dependentsPrem": "0.00",
+      "totalPrem": "907.18",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM004IF",
+          "coverageFromDt": "2017-07-01",
+          "coverageToDt": "2018-06-30",
+          "subscriberPrem": "907.18",
+          "dependentsPrem": "0.00",
+          "totalPrem": "907.18",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM0060I",
+      "rateFromDt": "2018-07-01",
+      "rateToDt": "2019-06-30",
+      "subscriberPrem": "1024.82",
+      "dependentsPrem": "857.87",
+      "totalPrem": "1882.69",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM0060I",
+          "coverageFromDt": "2018-07-01",
+          "coverageToDt": "2019-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "857.87",
+          "totalPrem": "857.87",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM0060I",
+          "coverageFromDt": "2018-07-01",
+          "coverageToDt": "2019-06-30",
+          "subscriberPrem": "1024.82",
+          "dependentsPrem": "0.00",
+          "totalPrem": "1024.82",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00BH7",
+      "rateFromDt": "2019-07-01",
+      "rateToDt": "2019-12-31",
+      "subscriberPrem": "1129.65",
+      "dependentsPrem": "946.55",
+      "totalPrem": "2076.20",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00BH7",
+          "coverageFromDt": "2019-07-01",
+          "coverageToDt": "2019-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "946.55",
+          "totalPrem": "946.55",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00BH7",
+          "coverageFromDt": "2019-07-01",
+          "coverageToDt": "2019-12-31",
+          "subscriberPrem": "1129.65",
+          "dependentsPrem": "0.00",
+          "totalPrem": "1129.65",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRG",
+      "rateFromDt": "2016-07-01",
+      "rateToDt": "2017-06-30",
+      "subscriberPrem": "780.33",
+      "dependentsPrem": "1002.53",
+      "totalPrem": "1782.86",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "1002.53",
+          "totalPrem": "1002.53",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "780.33",
+          "dependentsPrem": "0.00",
+          "totalPrem": "780.33",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        },
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRG",
+          "coverageFromDt": "2016-07-01",
+          "coverageToDt": "2017-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "HFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "932.53",
+      "totalPrem": "932.53",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "932.53",
+          "totalPrem": "932.53",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "932.53",
+      "totalPrem": "932.53",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "932.53",
+          "totalPrem": "932.53",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "714.63",
+      "dependentsPrem": "0.00",
+      "totalPrem": "714.63",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "714.63",
+          "dependentsPrem": "0.00",
+          "totalPrem": "714.63",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "714.63",
+      "dependentsPrem": "0.00",
+      "totalPrem": "714.63",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "MEDP",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "714.63",
+          "dependentsPrem": "0.00",
+          "totalPrem": "714.63",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2015-07-01",
+      "rateToDt": "2015-12-31",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2015-07-01",
+          "coverageToDt": "2015-12-31",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    },
+    {
+      "groupIdentifier": "00000317",
+      "subscriberIdentifier": "WS9982534",
+      "planId": "MCM00RRR",
+      "rateFromDt": "2016-01-01",
+      "rateToDt": "2016-06-30",
+      "subscriberPrem": "0.00",
+      "dependentsPrem": "0.00",
+      "totalPrem": "0.00",
+      "totalSubsidy": "0.00",
+      "premiums": [
+        {
+          "planBillingId": "RFEE",
+          "planId": "MCM00RRR",
+          "coverageFromDt": "2016-01-01",
+          "coverageToDt": "2016-06-30",
+          "subscriberPrem": "0.00",
+          "dependentsPrem": "0.00",
+          "totalPrem": "0.00",
+          "billLevel": "S",
+          "billLevelId": "00000317 1000"
+        }
+      ]
+    }
+  ]
+]
