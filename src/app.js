@@ -1,7 +1,6 @@
 const express=require('express')
 const app=express()
 const jwt=require('jsonwebtoken')
-const auth=require('../middlewares/auth')
 
 const port=process.env.PORT || 3000
 
@@ -53,7 +52,32 @@ app.get('/group/validate',(req,res)=>{
 // GET 
 app.get('/contracts/check-active-coverage/:subscriberIdentifier/:effectiveDt',(req,res)=>{
 
-})
+    var jsonData
+    var subscriberIdentifier = req.params.subscriberIdentifier;
+    var effectiveDt = req.params.effectiveDt
+    var content = fs.readFileSync('data/calculate-premium-sample-response.json')
+    var Subcheck = false
+       jsonData = JSON.parse(content);
+       res.setHeader('Content-Type', 'application/json');
+
+       jsonData.forEach(element => {
+        element.forEach(id => {
+           if(id.subscriberIdentifier == subscriberIdentifier && id.rateToDt == effectiveDt) {
+                Subcheck = true;
+            }
+        });
+    });
+
+        if (Subcheck) {
+            res.send("ACTIVE")
+            res.status(200)
+        } else {
+            res.send("INACTIVE")
+            res.status(200)
+        }
+        
+    });
+    
 
 
 app.listen(port, console.log('Server started on PORT: ',port))
