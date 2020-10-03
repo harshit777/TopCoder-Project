@@ -1,15 +1,37 @@
 const express=require('express')
 const app=express()
 const jwt=require('jsonwebtoken')
-const fs = require('fs');
-
-
 
 const port=process.env.PORT || 3000
 
+// Getting subscribers
+const subs=require('../data/calculate-premium-sample-request.json')
+
+// Function to generate token
+// const token=function generateToken(id) {
+//     const token=jwt.sign({s_id: id.toString()}, 'thisismysecret')
+//     return token
+// }
+// console.log("Token: \n", token('WS9982535'))
+
+
 // GET auth/checkauth
-app.get('/auth/checkauth',(req,res)=>{
-    res.send('auth')
+app.get('/auth/checkauth',async (req,res,next)=>{
+    try {
+        const token=req.header('Authorization').replace('Bearer ','')
+        const decode=await jwt.verify(token,'thisismysecret')
+        const user= subs.find(id=> {
+            if(decode.s_id == id.subscriberIdentifier) return id      
+        })
+
+        if(!user) throw new Error('User Not Found!')
+    
+        res.status(200).send(user)   
+        next()
+        
+} catch(err) {
+    res.status(401).send({"Error":"Authentication Required"})
+}
 })
 
 //POST /billing/contracts/calculate-premium
